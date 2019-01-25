@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <link rel="stylesheet" href="css/styles.css">
+  <meta charset="utf-8">
+  <title>Contact information</title>
+</head>
+
+<body>
+  <h3>Contact me</h3>
+  <p>San Jose de la Sierra</p>
+  <p>68432392</p>
+
+  <form action="mailto:joselmpman@gmail.com" method="post" enctype="text/plain">
+  <label>Name </label>
+  <input type="text" name="yourName" value=""><br>
+  <label>Email</label>
+  <input type="email" name="yourEmail" value="">
+  <input type="submit" name="">
+  <br>
+  <textarea name="" rows="10" cols="50"></textarea><br>
+  <label>Would you like to have your free lesson?</label>
+  <input type="checkbox">
+  <br>
+  <br>
+  <label>Please, choose a day for your lesson.</label>
+  <input type="date">
+  <br>
+  <br>
+  <label>Download your appointment please.</label>
+  <input type="button">
+
+</body>
+
+</html>

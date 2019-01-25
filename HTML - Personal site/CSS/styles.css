@@ -1,0 +1,55 @@
+body {
+  background-color: #444444
+}
+
+h1 {
+  color: #c70039
+}
+
+h3 {
+  color: #ffc60b
+}
+
+a:hover {
+  color: #c70039
+}
+
+ul {
+  color: #fbf9fa
+}
+
+hr .style1 {
+  color: white;
+  background-color: white;
+  height: 5px;
+}
+
+.style2 {
+  color: #c70039;
+  background-color: #c70039;
+  height: 5px;
+}
+
+img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+th {
+  background-color: #c70039;
+  color: #fbf9fa;
+  height: 30px;
+}
+
+td {
+  color: #fbf9fa
+}
